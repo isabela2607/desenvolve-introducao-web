@@ -6,7 +6,26 @@ destaque { color: #8C2B07; }
 principal{ color: #591303; }
 .UI/UX-5-hex { color: #F2F2F2; }*/
 
+html{
+ /*Atividade 1*/
+    background-color: #D99748;
+    color:#591303;
+  
+ /*Atividade 2*/
+    font-size: 20px;
+    font-family: sans-serif;
+    text-indent: 1em;
 
+    h1,h2,h3 {text-align: center;}
+    h1{font: size 1.8rem; ;}
+    h2{font-size: 1.4rem;}
+    h3{font-size: 1.2rem;}
+
+    .summary {text-align: center;}
+    .main p {line-height: 1.5;}
+
+    abbr{font-variant: small-caps;}    
+   }
   /*Atividade 3*/
    .page-wrapper {
         width: 80%;
@@ -52,26 +71,3 @@ principal{ color: #591303; }
 
 
  
-html{
- /*Atividade 1*/
-    background-color: #D99748;
-    color:#591303;
-  
- /*Atividade 2*/
-    font-size: 20px;
-    font-family: sans-serif;
-    text-indent: 1em;
-
-    h1,h2,h3 {text-align: center;}
-    h1{font: size 1.8rem; ;}
-    h2{font-size: 1.4rem;}
-    h3{font-size: 1.2rem;}
-
-    .summary {text-align: center;}
-    .main p {line-height: 1.5;}
-
-    abbr{font-variant: small-caps;} 
-
-   
-   
-}
