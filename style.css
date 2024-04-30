@@ -1,10 +1,10 @@
-/* Color Theme Swatches in Hex */
-
-/*.background { color: #D99748; }
+ /*Color Theme Swatches in Hex */
+/*
+.background { color: #D99748; }
  Tom mais escuro{ color: #8C5627; }
-destaque { color: #8C2B07; }
+fmkfdjgj { color: #8C2B07; }
 principal{ color: #591303; }
-.UI/UX-5-hex { color: #F2F2F2; }*/
+destaque { color: #F2F2F2; }*/
 
 
 html{
@@ -134,3 +134,28 @@ aside ul li{
 .participation h3{
     align-self: center;
 }
+
+ /*Atividade 5*/
+ a{
+    color: #F2F2F2;
+    font-weight: bold;
+ }
+
+ a:hover{
+    color: rgb(183, 168, 168);
+    font-weight: normal;
+ }
+
+ .main p:first-of-type::first-letter{
+   font-size: 3em;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  float: left;
+ }
+
+ .design-selection li{
+    border-top: #a41e00 solid 1px;
+ }
+
+ .design-selection li:last-of-type{
+    border-bottom: #a41e00 solid 1px;
+ }
